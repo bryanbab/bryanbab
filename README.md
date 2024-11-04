@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I’m Bryan!
 
-<!--
-**bryanbab/bryanbab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science & Psychology Student | Northeastern University**
 
-Here are some ideas to get you started:
+### 🧑‍💻 About Me
+I’m a second-year student in the Plus One program at Northeastern University, pursuing a degree in Computer Science. I have a passion for blending tech with creativity and problem-solving, and my studies in Psychology have sparked my interest in Human-Computer Interaction. I’m eager to learn more about designing intuitive, user-centered experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 What I’m Working On
+👕 **Fitted App:** Creating an outfit-planning app with weather-based suggestions using **React Native**, **JavaScript**, and **Supabase**.
+
+👨‍🏫 **CS TA Role:** Helping students with Java fundamentals in Northeastern’s CS 2510 course.
+
+---
+
+### 📫 Connect with Me
+[LinkedIn](http://linkedin.com/in/bryanbaboolal) | [Email](mailto:bryanbaboolal@gmail.com)
