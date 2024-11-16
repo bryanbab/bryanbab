@@ -14,5 +14,11 @@ I’m a second-year student in the Plus One program at Northeastern University, 
 
 ---
 
+### 🌟 Projects
+- 🔥 [LightEmAll](https://github.com/bryanbab/LightEmAll)
+- 💣 [Minesweeper](https://github.com/bryanbab/Minesweeper)
+
+---
+
 ### 📫 Connect with Me
 [LinkedIn](http://linkedin.com/in/bryanbaboolal) | [Email](mailto:bryanbaboolal@gmail.com)
