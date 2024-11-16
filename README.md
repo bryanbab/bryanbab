@@ -15,8 +15,8 @@ I’m a second-year student in the Plus One program at Northeastern University, 
 ---
 
 ### 🌟 Projects
-- 🔥 [LightEmAll](https://github.com/bryanbab/LightEmAll)
-- 💣 [Minesweeper](https://github.com/bryanbab/Minesweeper)
+- 🔥 [LightEmAll](https://github.com/bryanbab/LightEmAll): Java game with a GUI, using Kruskal’s and BFS algorithms for functional, interactive gameplay.
+- 💣 [Minesweeper](https://github.com/bryanbab/Minesweeper): Built a Java Minesweeper game with a GUI, timer, flags, and randomized mines.
 
 ---
 
