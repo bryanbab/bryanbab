@@ -5,6 +5,8 @@
 ### 🧑‍💻 About Me
 I’m a second-year student in the Plus One program at Northeastern University, pursuing a degree in Computer Science. I have a passion for blending tech with creativity and problem-solving, and my studies in Psychology have sparked my interest in Human-Computer Interaction. I’m eager to learn more about designing intuitive, user-centered experiences.
 
+🚧 **Note:** I'm actively working on improving and organizing my GitHub portfolio. Some projects are still being updated, and more will be added soon! Thank you for your patience as I build this space to showcase my work.
+
 ---
 
 ### 💼 What I’m Working On
