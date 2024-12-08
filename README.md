@@ -10,7 +10,7 @@ I’m a second-year student in the Plus One program at Northeastern University, 
 ---
 
 ### 💼 What I’m Working On
-👨‍🏫 **CS TA Role:** Helping students with Java fundamentals in Northeastern’s CS 2510 course.
+- 👨‍🏫 **CS TA Role:** Helping students with Java fundamentals in Northeastern’s CS 2510 course.
 
 ---
 
