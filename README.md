@@ -10,8 +10,6 @@ I’m a second-year student in the Plus One program at Northeastern University, 
 ---
 
 ### 💼 What I’m Working On
-👕 **[Fitted App](https://github.com/bryanbab/Fitted):** Creating an outfit-planning app with weather-based suggestions using **React Native**, **JavaScript**, and **Supabase**.
-
 👨‍🏫 **CS TA Role:** Helping students with Java fundamentals in Northeastern’s CS 2510 course.
 
 ---
@@ -19,6 +17,7 @@ I’m a second-year student in the Plus One program at Northeastern University, 
 ### 🌟 Projects
 - 🔥 **[LightEmAll](https://github.com/bryanbab/LightEmAll):** Java game with a GUI, using **Kruskal’s** and **BFS** algorithms for functional, interactive gameplay.
 - 💣 **[Minesweeper](https://github.com/bryanbab/Minesweeper):** Built a Java Minesweeper game with a GUI, timer, flags, and randomized mines.
+- 👕 **[Fitted App](https://github.com/bryanbab/Fitted):** Completed an outfit-planning app built using **React Native**, **JavaScript**, and **Supabase** for organizing and managing outfit photos.
 
 ---
 
